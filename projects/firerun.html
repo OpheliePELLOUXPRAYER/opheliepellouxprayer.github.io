@@ -23,11 +23,19 @@
             <section id="main_content" class="inner">
                 <div class="page-content">
                     <div class="wrapper">
-                        <video width="740" height="415" controls src="../video/GameplayFireRun.mp4" type=video/mp4>
+                        <video id="video-player" width="740" height="415" controls src="../video/GameplayFireRun.mp4" type=video/mp4>
                         </video>
                     </div>
                 </div>
             </section>
         </div>
+
+        <script>
+            document.getElementById('video-player').play();
+            // or if you change the src and want to load the new video
+            document.getElementById('video-player').load();
+            // or using jQuery
+            $("#video-player")[0].play();
+        </script>
     </body>
 </html>
