@@ -28,7 +28,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#ff9900;
+  color:#ffb84d;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -71,7 +71,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #ff9900;
+  color: :#ffb84d;
   text-shadow: none;
 }
 
