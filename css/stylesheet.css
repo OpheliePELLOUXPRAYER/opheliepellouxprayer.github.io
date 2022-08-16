@@ -249,6 +249,18 @@ Full-Width Styles
   padding: 50px 10px 30px 10px;
 }
 
+#header_wrap_diskette {
+  background: #4ddbff;
+  background-image: url('../images/Diskette/header.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+#header_wrap_firerun .inner {
+  padding: 50px 10px 30px 10px;
+}
+
 #header_wrap_memorydrop {
   background: #590C00;
   background-image: url('../images/MemoryDrop/header.jpg');
