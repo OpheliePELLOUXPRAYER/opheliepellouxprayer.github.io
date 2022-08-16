@@ -249,7 +249,7 @@ Full-Width Styles
   padding: 50px 10px 30px 10px;
 }
 
-#header_wrap_diskette {
+#header_wrap_disquette {
   background: #4ddbff;
   background-image: url('../images/Diskette/header.png');
   background-repeat: no-repeat;
@@ -257,7 +257,7 @@ Full-Width Styles
   background-position: top center;
 }
 
-#header_wrap_firerun .inner {
+#header_wrap_disquette .inner {
   padding: 50px 10px 30px 10px;
 }
 
